@@ -1,0 +1,2 @@
+501,Kapil,Pokhrel,Pokhara-30,98765456,kapil123,kapil123
+502,Bibek,Lama,Pokhara-27,9876544567,bibek123,bibek123
